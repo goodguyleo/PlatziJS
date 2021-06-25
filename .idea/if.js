@@ -73,4 +73,4 @@ function jugar(jugador){
 
 // Ejecutamos la funcion
 
-jugar(piedra)
+jugar(tijera)
